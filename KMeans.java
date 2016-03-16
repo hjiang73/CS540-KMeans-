@@ -5,7 +5,7 @@
 //Semester:         Spring 2016
 //
 //Author:           Han Jiang - hjiang73@wisc.edu
-//CS Login:         hjiang  dndd
+//CS Login:         hjiang  
 //Lecturer's Name:  Collin Engstrom  
 //
 ///////////////////////////////////////////////////////////////////////////////
